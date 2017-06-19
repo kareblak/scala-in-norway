@@ -14,3 +14,9 @@ Uses Scala in the core support system for managing online and classroom training
 
 ## Oslo Kommune (municipal / Oslo)
 Uses Scala in several core services in their micro service architecture
+
+## Finn.no (classified ads / Oslo)
+Uses Scala in several core service
+
+## TapAd (ad tech / Oslo)
+Uses Scala in most core services and applications.
