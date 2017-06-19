@@ -16,7 +16,10 @@ Uses Scala in the core support system for managing online and classroom training
 Uses Scala in several core services in their micro service architecture
 
 ## Finn.no (classified ads / Oslo)
-Uses Scala in several core service
+Uses Scala in several core services
 
 ## TapAd (ad tech / Oslo)
 Uses Scala in most core services and applications.
+
+## Hafslund (power and utility company / Oslo)
+Uses Scala in multiple applications and IoT devices
