@@ -23,3 +23,9 @@ Uses Scala in most core services and applications.
 
 ## Hafslund (power and utility company / Oslo)
 Uses Scala in multiple applications and IoT devices
+
+## Kommuneforlaget (municipal employers' organization / Oslo)
+http://www.kommuneforlaget.no
+
+## NDLA: Nasjonal Digital Læringsarena (public sector e-learning / Oslo)
+http://ndla.no/
