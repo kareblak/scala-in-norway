@@ -39,6 +39,9 @@ Uses Scala with a focus on functional programming style. Uses Finatra, Doobie, C
 https://nevion.com/
 Uses Scala in a functional programming style in their scalable and reactive "media service and network management system" (VideoIPath).
 
+## Nordea privat nettbank/mobilbank
+Uses Scala in API's
+
 ## Entur (State owned company, facilitates nation wide public transport tickets and travel planning)
 http://www.entur.org
 
