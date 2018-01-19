@@ -35,6 +35,9 @@ www.hoopla.no
 
 Uses Scala with a focus on functional programming style. Uses Finatra, Doobie, Circe and Akka (per November 2017).
 
+## Nordea privat nettbank/mobilbank
+Uses Scala in API's
+
 ## Entur (State owned company, facilitates nation wide public transport tickets and travel planning)
 http://www.entur.org
 
