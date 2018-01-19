@@ -35,6 +35,10 @@ www.hoopla.no
 
 Uses Scala with a focus on functional programming style. Uses Finatra, Doobie, Circe and Akka (per November 2017).
 
+## Nevion (Real-time media transport and processing solutions to broadcasters, telecom service providers, etc. / Oslo)
+https://nevion.com/
+Uses Scala in a functional programming style in their scalable and reactive "media service and network management system" (VideoIPath).
+
 ## Nordea privat nettbank/mobilbank
 Uses Scala in API's
 
