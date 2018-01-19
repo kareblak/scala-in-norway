@@ -32,9 +32,14 @@ http://ndla.no/
 
 ## Hoopla (Tickets and cash register systems for culture and sports events / Oslo & Trondheim)
 www.hoopla.no
+
 Uses Scala with a focus on functional programming style. Uses Finatra, Doobie, Circe and Akka (per November 2017).
 
 ## Nevion (Real-time media transport and processing solutions to broadcasters, telecom service providers, etc. / Oslo)
 https://nevion.com/
 Uses Scala in a functional programming style in their scalable and reactive "media service and network management system" (VideoIPath).
 
+## Entur (State owned company, facilitates nation wide public transport tickets and travel planning)
+http://www.entur.org
+
+Uses Scala on some backend components.
