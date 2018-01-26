@@ -18,6 +18,9 @@ Uses Scala in several core services in their micro service architecture
 ## Finn.no (classified ads / Oslo)
 Uses Scala in several core services
 
+## Schibsted Media Group (media / Oslo)
+Uses Scala in several core services
+
 ## TapAd (ad tech / Oslo)
 Uses Scala in most core services and applications.
 
