@@ -46,3 +46,7 @@ Uses Scala in API's
 http://www.entur.org
 
 Uses Scala on some backend components.
+
+## WTW AS (Health, transportation and leisure applications / Trondheim)
+http://wtw.no/
+Uses Scala in all new services, and has replaced some core legacy applications with Scala.
