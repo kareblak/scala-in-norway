@@ -53,3 +53,7 @@ Uses Scala in several core services and in most smaller microservices and intern
 ## WTW AS (Health, transportation and leisure applications / Trondheim)
 http://wtw.no/
 Uses Scala in all new services, and has replaced some core legacy applications with Scala.
+
+## Mito.ai (Reat-time language agnostic news-analysis / Trondheim)
+https://mito.ai/
+Uses scala for main backend components.
