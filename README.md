@@ -1,7 +1,7 @@
 # Organizations and companies using Scala in Norway
 
 ## Shiplog (maritime tracking / Oslo)
-Uses Scala in all core services. FS2/scalaz-stream heavy, Unfiltered + Directives2 for WEB APIs, Doobie and Slick for DB access. Some Akka.
+Uses Scala in all core services. fs2 + cats heavy. Some http4s and unfiltered-directives for API's. Doobie for DB stuff. No more Akka...
 
 ## Klaveness (maritime applications / Oslo) 
 Uses Scala in parts of the applications and web services in their application portfolio. 
