@@ -57,3 +57,8 @@ Uses Scala in all new services, and has replaced some core legacy applications w
 ## Mito.ai (Reat-time language agnostic news-analysis / Trondheim)
 https://mito.ai/
 Uses scala for main backend components.
+
+## Cognite (Data platform / Oslo)
+https://www.cognite.com/
+Uses scala in several services.
+
