@@ -48,6 +48,7 @@ http://www.entur.org
 Uses Scala on some backend components.
 
 ## SG Finans (Scandinavian office in Societe Generale Group. Bank and Finance / Oslo)
+https://www.sgfinans.no/
 Uses Scala in several core services and in most smaller microservices and internal webservices
 
 ## WTW AS (Health, transportation and leisure applications / Trondheim)
