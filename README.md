@@ -49,7 +49,7 @@ Uses Scala on some backend components.
 
 ## SG Finans (Scandinavian office in Societe Generale Group. Bank and Finance / Oslo)
 https://www.sgfinans.no/
-Uses Scala in several core services and in most smaller microservices and internal webservices
+Uses Scala in several core services and in most smaller microservices and internal webservices. Uses the Scala libraries Cats, http4s, Circe, Doobie, Lift.
 
 ## WTW AS (Health, transportation and leisure applications / Trondheim)
 http://wtw.no/
