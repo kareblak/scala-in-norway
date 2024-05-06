@@ -58,3 +58,8 @@ Uses Scala in all new services, and has replaced some core legacy applications w
 ## Mito.ai (Reat-time language agnostic news-analysis / Trondheim)
 https://mito.ai/
 Uses scala for main backend components.
+
+## Unit -- Direktoratet for IKT og fellestjenester i høyere utdanning og forskning (public sector / Oslo)
+https://unit.no
+
+Uses Scala in several services (https://sok.samordnaopptak.no, https://www.vitnemalsportalen.no/, and upcomming [Nasjonal vitnemålsdatabase](https://www.samordnaopptak.no/info/om/nasjonal-vitnemalsdatabase/))
